@@ -64,7 +64,7 @@ function Aboutus() {
           the community, which is why we partner with local farmers and
           suppliers to bring you the freshest, high-quality ingredients. Our
           team of dedicated baristas is committed to making your experience
-          unforgettable, whether you're stopping by for your morning pick-me-up
+          unforgettable, whether you are stopping by for your morning pick-me-up
           or staying to work and relax. As we grow, we are constantly exploring
           new ways to bring you exciting flavors and sustainable practices. At
           Coffoholics, we aim to create not just great coffee, but moments of
