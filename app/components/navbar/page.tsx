@@ -93,8 +93,8 @@ const Header: React.FC = () => {
         <p className="font-outfit text-base sm:text-lg md:text-xl mt-6 sm:mt-8 max-w-xl md:max-w-3xl leading-relaxed text-[#FFF8DB]">
           At the heart of Coffoholics is a commitment to quality. We source our beans from sustainable farms, ensuring
           that every sip you take is packed with rich, bold flavors. Our expert baristas are passionate about the craft,
-          serving up everything from the classic espresso to unique specialty drinks. Whether you're a coffee
-          connoisseur or just starting to explore the world of coffee, you'll find something to fall in love with here.
+          serving up everything from the classic espresso to unique specialty drinks. Whether you are a coffee
+          connoisseur or just starting to explore the world of coffee, you wll find something to fall in love with here.
         </p>
 
         {/* Button Container */}

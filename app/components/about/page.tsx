@@ -25,7 +25,7 @@ function Aboutus() {
           cozy, inviting space where coffee lovers and friends come together.
           From the finest ethically-sourced beans to our expertly crafted
           drinks, we believe in delivering more than just coffee—we deliver an
-          experience. Whether you&apos;re stopping by for a quick pick-me-up or
+          experience. Whether you arre stopping by for a quick pick-me-up or
           settling in for a relaxing afternoon, our doors are always open, and
           the coffee is always fresh. Come in, unwind, and savor the moment with
           us.
@@ -56,7 +56,7 @@ function Aboutus() {
           className="font-outfit text-xl"
           style={{ color: "#5A3535", maxWidth: "800px" }}
         >
-          At Coffoholics, coffee is more than just a drink—it&apos;s a passion. Our
+          At Coffoholics, coffee is more than just a drink—it is a passion. Our
           journey began with a simple love for the art of brewing and a desire
           to create a space where people could enjoy exceptional coffee in a
           warm and welcoming environment. From ethically-sourced beans to
@@ -65,7 +65,7 @@ function Aboutus() {
           suppliers to bring you the freshest, high-quality ingredients. Our
           team of dedicated baristas is committed to making your experience
           unforgettable, whether you're stopping by for your morning pick-me-up
-          or staying to work and relax. As we grow, we&apos;re constantly exploring
+          or staying to work and relax. As we grow, we are constantly exploring
           new ways to bring you exciting flavors and sustainable practices. At
           Coffoholics, we aim to create not just great coffee, but moments of
           connection, one cup at a time.
